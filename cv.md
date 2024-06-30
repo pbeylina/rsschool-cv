@@ -37,24 +37,24 @@ const findDup = arr => arr.find((el, i) => i !== arr.lastIndexOf(el));
 ```
 
 ## Experience:
-Platformatica LLC, Sanevill, CA
-Mar 2021 - Present · (3 years 3 month)
-Quality Assurance Engineer
+Platformatica LLC, Sanevill, CA\
+Mar 2021 - Present · (3 years 3 month)\
+Quality Assurance Engineer\
 Skills: Java · Selenium · TestNG · Jenkins Action · Manual Testing · Test Automation · Software Development Life Cycle (SDLC) · STLS · Agile Methodologies
 
-LocalCoding, CA
-Nov 2019 - Feb 2021 · (1 years 4 month)
-Quality Assurance Engineer
+LocalCoding, CA\
+Nov 2019 - Feb 2021 · (1 years 4 month)\
+Quality Assurance Engineer\
 Skills: JavaScript · WebdriverIO · Mocha (JavaScript Framework) · Chai · Axio · Postman API · Jira · Confluence
 
-PASV Technologies, CA
-Feb 2018 - Nov 2019 · (1 years 10 month)
-Quality Assurance Specialist
+PASV Technologies, CA\
+Feb 2018 - Nov 2019 · (1 years 10 month)\
+Quality Assurance Specialist\
 Skills: Requirements Analysis · Manual Testing · Regression Testing · Confluence · Jira
 
 
 ## Education:
-3rd Medical College - St.Petersburg, Russia
+3rd Medical College - St.Petersburg, Russia\
 Bachelor of Medicine, Orthopedic Dentistry, Grade: CDT
 
 
