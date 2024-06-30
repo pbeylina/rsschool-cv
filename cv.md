@@ -9,11 +9,11 @@
 
 
 ## Summary:
-- After accumulating five years of in-depth experience in Quality Assurance (QA) Automation Engineer, I have decided to transition to a role as a Front End Engineer. This decision is driven by my evolving career aspirations, a keen interest in front-end development, and the desire to leverage my existing skills in a new and challenging domain.
+After accumulating five years of in-depth experience in Quality Assurance (QA) Automation Engineer, I have decided to transition to a role as a Front End Engineer. This decision is driven by my evolving career aspirations, a keen interest in front-end development, and the desire to leverage my existing skills in a new and challenging domain.
 
-- I am eager to tackle new challenges and expand my expertise in modern front-end frameworks such as React, Angular, or Vue.js. Embracing this transition will allow me to diversify my skill set, contribute holistically to the software development process, from initial design to final implementation, and bring a unique perspective to the team, bridging the gap between development and quality assurance.
+I am eager to tackle new challenges and expand my expertise in modern front-end frameworks such as React, Angular, or Vue.js. Embracing this transition will allow me to diversify my skill set, contribute holistically to the software development process, from initial design to final implementation, and bring a unique perspective to the team, bridging the gap between development and quality assurance.
 
-- I am motivated by a passion for front-end technologies and the applicability of my existing skills and I am confident that this transition will significantly enhance my professional journey.
+I am motivated by a passion for front-end technologies and the applicability of my existing skills and I am confident that this transition will significantly enhance my professional journey.
 
 
 ## Technical Skills:
@@ -37,27 +37,28 @@ const findDup = arr => arr.find((el, i) => i !== arr.lastIndexOf(el));
 ```
 
 ## Experience:
-- Quality Assurance Engineer
-- Platformatica LLC, Sanevill, CA                                        Mar 2021 - Present · (3 years 3 month)
-- Skills: Java · Selenium · TestNG · Jenkins Action · Manual Testing · Test Automation · Software Development - Life Cycle (SDLC) · STLS · Agile Methodologies
+Platformatica LLC, Sanevill, CA  | Quality Assurance Engineer
+Mar 2021 - Present · (3 years 3 month)
+Skills: Java · Selenium · TestNG · Jenkins Action · Manual Testing · Test Automation · Software Development Life Cycle (SDLC) · STLS · Agile Methodologies
 
-- Quality Assurance Specialist
-- LocalCoding, CA                                                       Nov 2019 - Feb 2021 · (1 years 4 month)
-- Skills: JavaScript · WebdriverIO · Mocha (JavaScript Framework) · Chai · Axio · Postman API · Jira · Confluence
+LocalCoding, CA | Quality Assurance Engineer
+Nov 2019 - Feb 2021 · (1 years 4 month)
+Skills: JavaScript · WebdriverIO · Mocha (JavaScript Framework) · Chai · Axio · Postman API · Jira · Confluence
 
-- Quality Assurance Engineer
-- PASV Technologies, CA                                                Feb 2018 - Nov 2019 · (1 years 10 month)
-- Skills: Requirements Analysis · Manual Testing · Regression Testing · Confluence · Jira
+PASV Technologies, CA  | Quality Assurance Specialist
+Feb 2018 - Nov 2019 · (1 years 10 month)
+Skills: Requirements Analysis · Manual Testing · Regression Testing · Confluence · Jira
 
 
 ## Education:
-- 3rd Medical College - St.Petersburg, Russia, Bachelor of Medicine, Orthopedic Dentistry, Grade: CDT
+3rd Medical College - St.Petersburg, Russia
+Bachelor of Medicine, Orthopedic Dentistry, Grade: CDT
 
 
 ## Courses:
--PASV 2018
--Red Rover 2021
--Stanford University's Code in Place CS106A Programming Methodologies (April 24th to June 8th, 2023) https://codeinplace.stanford.edu/cip3/certificate/ajot6i
+- PASV 2018
+- Red Rover 2021
+- Stanford University's Code in Place CS106A Programming Methodologies 2023 https://codeinplace.stanford.edu/cip3/certificate/ajot6i
 - RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 
