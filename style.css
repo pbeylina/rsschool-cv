@@ -1,39 +1,93 @@
-/* Reset some default browser styles */
 * {
-  margin: 0;
-  padding: 0;
   box-sizing: border-box;
 }
 
 body {
-  font-family: Arial, sans-serif;
-  background-color: #f4f4f4;
-  color: #333;
-  line-height: 1.6;
+  font-family: 'Arsenal', sans-serif;
   margin: 0;
   padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  margin: 20px 0;
-  line-height: 1.2;
+.header {
+  background-color: #4a8b85;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
 }
 
-p {
+.header-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.avatar {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+.nav {
+  background-color: #376258;
+  padding: 10px 0;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.nav-item {
+  display: inline;
+}
+
+.nav-link {
+  color: white;
+  text-decoration: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+.nav-link:hover {
+  background-color: #4a8b85;
+}
+
+.main {
+  padding: 20px;
+}
+
+h3 {
+  color: #376258;
+}
+
+.section {
+  margin-bottom: 30px;
+}
+
+.section-title {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.section p, .section ul, .section pre {
   margin: 10px 0;
 }
 
 a {
-  color: #3498db;
   text-decoration: none;
+  color: grey;
+  size: 16px;
+  transition: color 0.5s;
 }
 
-a:hover {
-  text-decoration: underline;
-}
-
-.container {
-  width: 80%;
-  margin: auto;
-  overflow: hidden;
+footer {
+  text-align: center;
 }
